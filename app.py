@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from sklearn.externals import joblib
+# from sklearn.externals import joblib
 import pandas as pd
 import numpy as np
 
